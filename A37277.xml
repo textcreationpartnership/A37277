@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christianity best propagated by the good lives of Christians a sermon preach'd before the gentlemen educated at Merchant Taylors School at St. Mary le Bow, Jan. 16, 1699 / by Sir William Dawes, Baronet ...</title>
+            <author>Dawes, William, Sir, 1671-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37277</idno>
+            <idno type="STC">Wing D455</idno>
+            <idno type="STC">ESTC R10124</idno>
+            <idno type="EEBO-CITATION">12643491</idno>
+            <idno type="OCLC">ocm 12643491</idno>
+            <idno type="VID">65074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65074)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 350:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christianity best propagated by the good lives of Christians a sermon preach'd before the gentlemen educated at Merchant Taylors School at St. Mary le Bow, Jan. 16, 1699 / by Sir William Dawes, Baronet ...</title>
+                  <author>Dawes, William, Sir, 1671-1724.</author>
+               </titleStmt>
+               <extent>[4], 20, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Smith &amp; Benj. Walford ... and Tho. Speed ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisements: [3] p. at end.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:65074:1" rendition="simple:additions"/>
+            <p>Sir <hi>WILLIAM DAWESs</hi> SERMON Preach'd before The Gentlemen Educated at <hi>Merchant-Taylors</hi> School. <hi>Jan.</hi> 16. 1699.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:65074:2"/>
+            <pb facs="tcp:65074:2" rendition="simple:additions"/>
+            <p>
+               <hi>Chriſtianity beſt propagated by the good lives of Chriſtians.</hi>
+            </p>
+            <p>A SERMON Preach'd before The Gentlemen Educated at <hi>Merchant Taylors</hi> School, AT <hi>St Mary le Bow, Jan.</hi> 16. 1699.</p>
+            <p>By Sir <hi>WILLIAM DAWES,</hi> Baronet, D. D. and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Smith</hi> &amp; <hi>Benj. Walford,</hi> at the <hi>Princes Arms</hi> in St <hi>Paul</hi>'s Church-yard, and <hi>Tho. Speed,</hi> over againſt <hi>Jonathan</hi>'s Coffee-Houſe in <hi>Exchange-Alley, Cornhil,</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:65074:3"/>
+            <pb facs="tcp:65074:3"/>
+            <head>To his Honoured AND Much Eſteemed Friends, THE STEWARDS OF THE Feaſt of Gentlemen Educated at <hi>Merchant Taylors</hi> School.</head>
+            <p>
+               <list>
+                  <item>
+                     <hi>Tho. Andrews,</hi> Eſq;</item>
+                  <item>Mr <hi>Henry Butler,</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Graham,</hi> Eſq;</item>
+                  <item>
+                     <hi>Charles Cox,</hi> Eſq;</item>
+                  <item>
+                     <hi>Edw. Goldesbrough,</hi> Eſq;</item>
+                  <item>
+                     <hi>Stephen Hervey,</hi> Eſq;</item>
+                  <item>Mr <hi>Benjamin Walford,</hi>
+                  </item>
+                  <item>
+                     <hi>Caeſar Bradſhaw,</hi> Eſq;</item>
+               </list>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:65074:4"/>
+            <pb n="1" facs="tcp:65074:4"/>
+            <head>A SERMON Preach'd before The Gentlemen Educated at <hi>Merchant-Taylors</hi> School, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <bibl>St Matthew, Chap. the 5th, v. 16. the latter part of the verſe,</bibl>
+               <q>That they may ſee your good works, and glorify your Father which is in Heaven.</q>
+            </epigraph>
+            <p>IN the former part of this Verſe, we find our Bleſ<g ref="char:EOLhyphen"/>ſed Saviour exhorting his Diſciples, and in them all other Chriſtians whatſoever, to an unblame<g ref="char:EOLhyphen"/>able, holy and exemplary converſation. <hi>Let your light,</hi> ſaith he, that is, the light or knowledge of the Goſpel which is in you, <hi>ſo ſhine,</hi> or ſhew forth
+<pb n="2" facs="tcp:65074:5"/>itſelf, in all the graces and virtues of a true Chriſtian life, <hi>before,</hi> or in the ſight of <hi>men, that they may ſee your good works,</hi> not only works of charity, as ſome too narrowly expound it, but all ſorts of good works whatſoever, and be by them excited to <hi>glorify your Father which is in Heaven.</hi>
+            </p>
+            <p>By which phraſe two things may be meant: ei<g ref="char:EOLhyphen"/>ther, Firſt, that men may be hereby invited to re<g ref="char:EOLhyphen"/>joyce in, and give thanks and praiſe to God, for for theſe viſible and glorious effects of his grace and goodneſs, amongſt men; or ſecondly, that they may hereby be provoked to reform and amend their their lives: <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers,</hi> to come over the true belief, and <hi>wicked Believers</hi> to the true practice of Chriſtia<g ref="char:EOLhyphen"/>nity: and both by ſo doing to glorify God, in that way which of all others he moſt approves, by doing his will, by bearing much fruit, by ſerving him with their bodies and ſpirits, which are his.</p>
+            <p>And both theſe ſenſes, I make do doubt, were intended in theſe words; but I ſhall inſiſt upon the latter only in my following diſcourſe: the whole deſign and buſineſs of which ſhall be, to make good and apply this uſeful propoſition, which, I think, may very naturally be inferr'd from the words of my Text, <hi>viz.</hi>
+            </p>
+            <p>That the unblameable, holy, and exemplary lives of Chriſtians are a very likely means, both of bringing over <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers,</hi> and converting wicked. <hi>Believers,</hi> to a true and ſtedfaſt belief and practice of the Chriſtian Religion.</p>
+            <pb n="3" facs="tcp:65074:5"/>
+            <p>That this is true, as to <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers,</hi> might be ſufficiently prov'd from conſidering: That the holy Scriptures do recommend to Chriſtians this method of converting <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers,</hi> which, it is moſt certain, they would not do, were it not fit and proper for this end. Thus we find St. <hi>Peter</hi> 1 <hi>Ep.</hi> 3. c. v. 1, 2. ex<g ref="char:EOLhyphen"/>horting the <hi>Believing</hi> Wife, to win over the <hi>
+                  <g ref="char:V">Ʋ</g>nbe<g ref="char:EOLhyphen"/>lieving</hi> Husband to the <hi>faith,</hi> by her <hi>chaſt converſation.</hi> That God, eſpecially having appointed this means for the attainment of this end, will, no doubt, in an extraordinary manner ſanctify it by his grace, and make it effectual to it. And laſtly, That it is plain from experience, that the growth of Chriſtianity has been always very much owing to this cauſe: there having been multitudes of <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers,</hi> as all Eccleſiaſtical Writers aſſure us, won over to the faith of Chriſt, by the incomparable <hi>Piety, Charity,</hi> and <hi>So<g ref="char:EOLhyphen"/>briety</hi> of the firſt Chriſtians.</p>
+            <p>But, becauſe men are generally deſirous to ſee the reaſons of things, how they come to paſs, and by what natural power each cauſe produceth its effect, I ſhall endeavour, as briefly and clearly as I can, to manifeſt this, as to the point in hand, by theſe fol<g ref="char:EOLhyphen"/>lowing Conſiderations: ſome of which will ſhow, how the holy and exemplary lives of Chriſtians contribute towards the converſion of <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers,</hi> more remotely, and by diſtant conſequence; others, more directly and immediately. And</p>
+            <p>Firſt, Let it be conſider'd, that the holy and ex<g ref="char:EOLhyphen"/>emplary lives of Chriſtians will naturally attract
+<pb n="4" facs="tcp:65074:6"/>the eyes and thoughts of <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers,</hi> and, by <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o doing, probably engage them in ſome ſeri<g ref="char:EOLhyphen"/>ous reflections upon the Chriſtian Religion, the effects of which they ſhall plainly perceive to be ſo glorious and wonderful. Whatſoever is extraor<g ref="char:EOLhyphen"/>dinary and ſurprizing men are naturally apt to gaze at and admire, and to enquire into the cauſes and original of; and conſequently, the lives of Chri<g ref="char:EOLhyphen"/>ſtians, which, when led according to the Rules of their Religion, are very extraordinary, and vaſtly beyond any thing that was in the world before, will be very likely to provoke men to a curious obſer<g ref="char:EOLhyphen"/>vation and examination of them, as alſo of the grounds and principles from which they proceed. Theſe <hi>burning and ſhining lights,</hi> cannot fail at leaſt of ſtartling and awakening ſuch as were before <hi>in dark<g ref="char:EOLhyphen"/>neſs, and in the ſhadow of death:</hi> Theſe bleſſed <hi>fruits of the ſpirit</hi> cannot fail of perſwading men at leaſt to <hi>taſt and ſee how good the Lord is,</hi> and when we have once brought them ſo far as to taſt, there is very little fear of their not liking.</p>
+            <p>Secondly, The holy and exemplary lives of Chri<g ref="char:EOLhyphen"/>ſtians will be a ſure means of recommending them to the favour and eſteem, love and friendſhip of <hi>
+                  <g ref="char:V">Ʋ</g>nbe<g ref="char:EOLhyphen"/>lievers:</hi> and conſequently a ſure means of gaining op<g ref="char:EOLhyphen"/>portunities of converſing familiarly with them, in<g ref="char:EOLhyphen"/>ſinuating truth into them, and making them wil<g ref="char:EOLhyphen"/>ling and eaſie to receive it. For there is no man (let him be of what profeſſion or denomination he will) that doth not admire Juſtice and honeſt deal<g ref="char:EOLhyphen"/>ing, ſincerity and veracity, kindneſs and Charity, <hi>&amp;c.</hi> whereſoever he finds them; and therefore here can be no doubt but good Chriſtians, who
+<pb n="5" facs="tcp:65074:6"/>muſt needs be, in a conſpicuous manner, eminent for the practice of theſe and all other virtues, will ſoon become the darlings of all mankind; obtain a mighty Intereſt in their opinions and affections, and then, by conſequence, a mighty power, both of leading them into, and confirming them in, the know<g ref="char:EOLhyphen"/>ledge of Chriſt. Juſt as it was in the caſe of <hi>John the Baptiſt,</hi> who, having firſt approv'd himſelf to the world, by the extraordinary fanctity and ſeverity of his life, there immediately <hi>went out to him Jeruſa<g ref="char:EOLhyphen"/>lem and all Judea, and all the region round about Jor<g ref="char:EOLhyphen"/>dan,</hi> and gladly heard his Doctrine, <hi>and were</hi> forth-with <hi>Baptiz'd of him.</hi>
+            </p>
+            <p>Thirdly, The holy and exemplary lives of <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> if ever they come to debate the principles of their Religion with <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers,</hi> will give a mighty weight and advantage to all their Arguments, by taking away all jealouſies and ſuſpicions of trickiſh<g ref="char:EOLhyphen"/>neſs, and inſincerity in them; whereas our expe<g ref="char:EOLhyphen"/>rience aſſures us, that, let men argue never ſo well in behalf of Religion, yet if their Arguments are not back'd by their lives, they are ſeldom, ſcarce ever, ſucceſsful. And the reaſon of this is plain: becauſe the Arguments of ſuch men are always ſuſ<g ref="char:EOLhyphen"/>pected, and, they themſelves being manifeſt Hypo<g ref="char:EOLhyphen"/>crites, their Arguments generally paſs for ſuch too.</p>
+            <p>Fourthly, The holy and exemplary lives of <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> will ſo powerfully repreſent to <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers</hi> the reaſonableneſs and excellency of the <hi>Chriſtian Religion,</hi> as well as the uſefulneſs and advantage of it, towards the preſent and future happineſs and well-being of mankind, that they cannot fai,
+<pb n="6" facs="tcp:65074:7"/>of engaging their affections towards it, and not only ſtrongly incline them to examine into the grounds of it, but even prejudice, and prepoſſeſs them in favor of it, and make them wiſh and deſire that it may be true, by ſhewing them how much it is for their Intereſt that it ſhould be ſo. Thus, for Inſtance,</p>
+            <p>When they ſhall ſee its precepts all exemplify'd in the lives of its Diſciples: how capable they are of being practis'd, notwithſtanding all the ſeem<g ref="char:EOLhyphen"/>ing difficulties in the Theory, and how much they tend to exalt and ennoble human nature, when practis'd, by drawing it off from the carnal and ſenſual, to the rational and ſpiritual life; they will be conſtrain'd to acknowledge it a reaſonable, con<g ref="char:EOLhyphen"/>ſtrain'd to wiſh it a Divine Service.</p>
+            <p>Again, when by comparing the lives of <hi>Chriſtians</hi> with thoſe of other men, they ſhall plainly ſee how much they do ſurpaſs them, in <hi>piety</hi> towards God, <hi>Juſtice</hi> and <hi>Charity</hi> towards men, and in a Regular and well ordered Government of themſelves, their luſts and paſſions (and this they would ſoon ſee, if Chriſtians were but careful to direct their lives according to their Rule) they muſt needs own, that they have a more excel<g ref="char:EOLhyphen"/>lent Rule of Life to walk by, than other men, and earneſtly deſire, that this were to be the ſtanding Rule to all Mankind.</p>
+            <p>Once more, when they ſhall obſerve, from ſenſible and living proofs, how much the Laws of Chriſtia<g ref="char:EOLhyphen"/>nity duly put in execution, tend to preſerve the Peace, order, and beauty of the Univerſe, and the
+<pb n="7" facs="tcp:65074:7"/>particular happineſs, and well-being of every mem<g ref="char:EOLhyphen"/>ber of it; How contented and uſeful it makes every man in his own Station: how reſpectful and obedi<g ref="char:EOLhyphen"/>ent to his Superiors, how humble, kind and helpful to his inferiours, how juſt and beneficent to all; how utterly it eradicates from the minds of men every <hi>Root of bitterneſs,</hi> which may make them uneaſy either to themſelves or others, and how plentifully it in<g ref="char:EOLhyphen"/>ſpires them with all thoſe Craces and Virtues, which may ſerve to promote their own, and their Neigh<g ref="char:EOLhyphen"/>bours happineſs; but, above all, with what ſure and glorious hopes it fills them of a bleſſed immorta<g ref="char:EOLhyphen"/>lity, in proſpect of which, they are able to triumph over all the miſeries and troubles of this preſent Life, and defy all manner of dangers that may threaten them, nay even Death itſelf: When, I ſay, they ſhall experimentally and ſenſibly find the conducive<g ref="char:EOLhyphen"/>neſs of the <hi>Chriſtian Religion,</hi> towards theſe admirable and deſirable ends; how can it be conceiv'd, that they ſhould not ſtraitway fall in Love with it, and eagerly deſire to employ themſelves in exami<g ref="char:EOLhyphen"/>ning thoſe Reaſons, and readily give thoſe Ar<g ref="char:EOLhyphen"/>guments their full weight, which ſerve to con<g ref="char:EOLhyphen"/>firm them in the truth of it. And this will put them into an excellent Temper and Diſpoſition for receiving</p>
+            <p>Laſtly, That evidence which the Holy Lives of <hi>Chriſtians</hi> carry in them, of the <hi>truth</hi> and <hi>Divinity</hi> of the <hi>Chriſtian Religion,</hi> and this is very ſtrong and powerful. For</p>
+            <pb n="8" facs="tcp:65074:8"/>
+            <p>Firſt, It is moſt highly probable, that that Religion, which ſo much tends to raiſe men up into a confor<g ref="char:EOLhyphen"/>mity, and likeneſs to God, and, as St <hi>Peter</hi> expreſſeth it, to make them <hi>partakers of the Divine Nature,</hi> as it is plain from the <hi>Holy Lives</hi> of <hi>Chriſtians,</hi> the <hi>Chriſtian Religion</hi> doth, had that God for its Author, to whom it is ſo very like. Were there any thing in the lives of Chriſtians, led according to the Rules of their Religion, either unlike to, or un<g ref="char:EOLhyphen"/>worthy of, God, this would be a ſufficient argument againſt the Divinity of it; for God certainly can do nothing, either unlike to, or unworthy of, himſelf. But ſince every line and feature of a true Chriſtian is exactly anſwerable and agreeable to all our pureſt and moſt refin'd notions of God, it ſeems highly un<g ref="char:EOLhyphen"/>reaſonable, not to acknowledge him for his Father. But</p>
+            <p>Secondly, The <hi>Holy Lives</hi> of <hi>Chriſtians</hi> ſeem to me to be an infallible demonſtration of the <hi>Divi<g ref="char:EOLhyphen"/>nity</hi> of the <hi>Chriſtian Religion:</hi> it appearing utterly impoſſible, that any thing leſs than infinite Wiſ<g ref="char:EOLhyphen"/>dom and infinite Power joyn'd together, ſhould be able to raiſe mens Lives to that perfection, which the Chriſtian Religion viſibly doth; and conſe<g ref="char:EOLhyphen"/>quently that muſt be infinite wiſdom, and infinite power.</p>
+            <p>In vain, alas! had the wiſe men of this world, for about four thouſand years, exercis'd their wits, in ſearching out ſuch perfect Rules of living, as ſhine ſo illuſtriouſly in the lives of true Chriſti<g ref="char:EOLhyphen"/>ans.
+<pb n="9" facs="tcp:65074:8"/>And is it then imaginable that there ſhould come one man at laſt, wiſer than all the world be<g ref="char:EOLhyphen"/>fore him, who ſhould be able of himſelf to atchieve this mighty work? No certainly, the work was more than humane, and not to be accompliſh'd but by the infinite and <hi>multifarious wiſdom,</hi> which ſo richly dwelt in our Jeſus, who has been in theſe laſt days the Author of it. Nothing leſs than that Scripture, which has been <hi>given us by in<g ref="char:EOLhyphen"/>ſpiration of God,</hi> could have been <hi>ſufficient for Do<g ref="char:EOLhyphen"/>ctrine, for Reproof, for Correction, for Inſtruction in Righteouſneſs, that the man of God might be,</hi> as we now ſee him, <hi>perfect and throughly furniſh'd unto all good works.</hi>
+            </p>
+            <p>And, as our wiſdom to find out, ſo our power to execute, the means of arriving at this perfecti<g ref="char:EOLhyphen"/>on was much too ſhort. For, ſuppoſing that, of our ſelves, we could have diſcover'd thoſe excel<g ref="char:EOLhyphen"/>lent Rules of life which Chriſtians now walk by: yet conſidering how very diſagreeable they are to fleſh and blood, and how conſtantly and how vio<g ref="char:EOLhyphen"/>lently they thwart our deareſt affections and in<g ref="char:EOLhyphen"/>clinations, and how many and how potent ene<g ref="char:EOLhyphen"/>mies we muſt have fought our way through to the obſervance of them, we cannot but acknowledge it impoſſible for us ever to have kept them; For it is not in the power of man, conſider'd in himſelf, to be continually fighting againſt, and bearing down himſelf: it is not in the power of meer unaſſiſt<g ref="char:EOLhyphen"/>ed man to wreſtle with, and get the victory over, <hi>principalities and powers.</hi> But what the <hi>natural power</hi>
+               <pb n="10" facs="tcp:65074:9"/>of man could not do, that the <hi>ſupernatural grace</hi> of God has effectually done: and by this we, who of ourſelves are <hi>weak,</hi> and <hi>unable to do any good thing,</hi> are made <hi>ſtrong in the Lord, enabled to do all things,</hi> and <hi>to go on unto all perfection.</hi>
+            </p>
+            <p>This then I look upon as a ſtanding Miracle to prove the <hi>Divinity</hi> of the <hi>Chriſtian Religion;</hi> name<g ref="char:EOLhyphen"/>ly, the vaſt change it has made from the carnal to the ſpiritual man, viſible in the lives of all good Chriſtians, and uncapable of being effected by any thing leſs than the Divine Power and Wiſ<g ref="char:EOLhyphen"/>dom.</p>
+            <p>And thus you ſee plainly how the lives of good Chriſtians do conduce very much towards the con<g ref="char:EOLhyphen"/>verſion of <hi>
+                  <g ref="char:V">Ʋ</g>nbelievers</hi> to the <hi>Chriſtian Religion;</hi> by inclining them to look into it, gaining opportuni<g ref="char:EOLhyphen"/>ties of inſtructing them in it, repreſenting it ami<g ref="char:EOLhyphen"/>able and lovely to them, and by preparing them for, and offering to them, not only probable, but even demonſtrative evidence of the Divinity of it. I proceed to ſhow</p>
+            <p>Secondly, That they conduce every whit as much towards the converſion of <hi>Wicked Believers</hi> to a true and ſtedfaſt practice of the Chriſtian Re<g ref="char:EOLhyphen"/>ligion. For,</p>
+            <p>Firſt, The <hi>holy and exemplary lives of good Chri<g ref="char:EOLhyphen"/>ſtians</hi> will be a continual <hi>Reproach</hi> and <hi>Reproof</hi> to the <hi>bad</hi> ones; by ſhewing, in themſelves as in a
+<pb n="11" facs="tcp:65074:9"/>
+               <hi>Glaſs,</hi> how inſincere and hypocritical they are, how unlike in <hi>word</hi> and <hi>deed,</hi> in <hi>reality</hi> and <hi>profeſſion,</hi> how inconſiſtent with themſelves, and how unworthy of <hi>that holy name, by which they are call'd.</hi> All this muſt evidently appear, from viewing the lives of <hi>good Chriſtians,</hi> between which and thoſe of bad ones there will be ſeen, at firſt ſight, ſuch a monſtrous diſparity, as will render <hi>wicked Chriſtians</hi> odious and contemptible, in the ſight of all men, even of ſuch as are not Chriſti<g ref="char:EOLhyphen"/>ans themſelves (for all men naturally love ſince<g ref="char:EOLhyphen"/>rity, and a correſpondence between mens actions and profeſſions) and moreover make them, if they are not quite harden'd, aſham'd of themſelves, and reſolve, either to ſhake off their <hi>Chriſtian Profeſſion,</hi> or their <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian Converſation. The Righteous,</hi> ſay the wicked, in the wiſdom of <hi>Solomon,</hi> c. 2. v. 12, &amp;c. <hi>is not for our turn, and he is clean con<g ref="char:EOLhyphen"/>trary to our doings, he upbraideth us with our of<g ref="char:EOLhyphen"/>fending the Law, and objecteth to our infamy the tranſgreſſing of our education. He was made to re<g ref="char:EOLhyphen"/>prove our thoughts. He is grievous unto us even to behold, for his life is not like other mens, his ways are of another faſhion. We are eſteem'd of him as counterfeits, he abſtaineth from our ways as from fil<g ref="char:EOLhyphen"/>thineſs.</hi>
+            </p>
+            <p>Beſides, the reproof of a good life has this pe<g ref="char:EOLhyphen"/>culiar advantage of all other ſorts of reproof, that it is not capable of being miſconſtrued, and ſo neg<g ref="char:EOLhyphen"/>lected upon pretence of its proceeding from per<g ref="char:EOLhyphen"/>ſonal
+<pb n="12" facs="tcp:65074:10"/>malice, particular piques, and private intereſts and deſigns, as they are. A good life is a reproof at large, and therefore no man can ſay, <hi>I am the perſon deſign'd by it;</hi> it is the neceſſary means of our Salvation, and therefore no man can be ſo fooliſh as to ima<g ref="char:EOLhyphen"/>gine, that it proceeds from any particular ſpite, or ill will to him. The reproof of it is the moſt lively and powerful, becauſe the moſt ſenſible that can be; and yet at the ſame time moſt inoffenſive and like to do good, becauſe it points at no par<g ref="char:EOLhyphen"/>ticular perſons, nor can be aſcribed to any ill de<g ref="char:EOLhyphen"/>ſigns.</p>
+            <p>Secondly, The <hi>Holy and exemplary lives of good Chri<g ref="char:EOLhyphen"/>ſtians,</hi> will be a continual Leſſon of inſtruction to the <hi>wicked,</hi> and, having ſhew'd them that they walk wrong, direct them how to walk right; by ſetting before them, in lively colours, the exact pourtraict of a <hi>true Chriſtian,</hi> ſenſibly tracking out for them the path they are to walk in, and go<g ref="char:EOLhyphen"/>ing viſibly before them, and, by ſo doing, as it were leading them on by the hand, in it. We have ſuch a great mixture of ſenſe with our rea<g ref="char:EOLhyphen"/>ſon, and beſides are ſo naturally prone to imitate thoſe of our own kind; that there cannot a great<g ref="char:EOLhyphen"/>er bleſſing befall us, than to be ſurrounded with good examples; which may ſerve for a ſenſible Comment upon the laws of Reaſon and Religion, the better to inform our minds in them; and like<g ref="char:EOLhyphen"/>wiſe to provoke us rightly to apply this natural inclination we have to imitate one another.</p>
+            <pb n="13" facs="tcp:65074:10"/>
+            <p>Laſtly, The <hi>Holy and exemplary lives of good Chriſtians</hi> will be a continual encouragement to the <hi>wicked,</hi> to forſake their ſins, and return to their Duty; by becoming to them a plain demonſtrati<g ref="char:EOLhyphen"/>on, not only of the poſſibility of practiſing their Duty, but alſo of that moſt deſirable eaſe, plea<g ref="char:EOLhyphen"/>ſure and ſatisfaction, that moſt delightful hope, and joyful expectation, which conſtantly attend upon the practice of it.</p>
+            <p>And what can an erring Chriſtian poſſibly need or deſire more, in order to his amendment, than to be made ſenſible of his errours, and at once inſtruct<g ref="char:EOLhyphen"/>ed and encourag'd to forſake them? This will be ſufficient for his Reformation, if he be wil<g ref="char:EOLhyphen"/>ling to be reform'd, and if he be not, nothing will.</p>
+            <p>Upon the whole then, conſidering the vaſt in<g ref="char:EOLhyphen"/>fluence that the <hi>holy Lives</hi> of <hi>Chriſtians</hi> have, to<g ref="char:EOLhyphen"/>wards the propagation, not only of the true faith, but alſo true practice of the <hi>Chriſtian Religion,</hi> I think I may very juſtly make theſe following in<g ref="char:EOLhyphen"/>ferences.</p>
+            <p>Firſt, That a Chriſtian not only may, but ſome times in Duty muſt, ſo do his good works, that they may be <hi>ſeen of men,</hi> or with a deſign to have them ſeen of men: and for this plain reaſon, becauſe it is vaſtly for the honour of God and the
+<pb n="14" facs="tcp:65074:11"/>good of mankind that it ſhould be ſo. 'Tis true indeed, our bleſſed Lord, who to the laſt degree abhorr'd all ſelf-conceit and vain-glory, has com<g ref="char:EOLhyphen"/>manded us not to <hi>do our alms,</hi> and by parity of reaſon other good works, <hi>before men, to be ſeen of them;</hi> that is to be ſeen of them, for that end, for which the Phariſees (to whom our Lord plainly alludes here) deſired their good works might be ſeen, namely, purely that they might get <hi>the praiſe</hi> and glory of men, and therewith feed and inflame their <hi>vanity</hi> and <hi>Oſtentation.</hi> But, as for thoſe who have no other end in letting their <hi>good works</hi> be <hi>ſeen,</hi> than the Glory of God and the good of their Brethren; they are ſo far from being concer'd in this prohibition, that they have expreſs warrants for what they do, not only from the reaſon of the thing it ſelf, but likewiſe from many Texts of Scripture, which command them <hi>to ſet their candle on a can<g ref="char:EOLhyphen"/>dleſtick,</hi> to <hi>let their light ſhine before men,</hi> to be like <hi>a City on an hill, which cannot be hid, &amp;c.</hi>
+            </p>
+            <p>And this I take to be, not only a plain Juſtifi<g ref="char:EOLhyphen"/>cation, but a very high commendation of our pre<g ref="char:EOLhyphen"/>ſent meeting; that, at a time when many have <hi>deny'd the Lord who bought them,</hi> and <hi>the love of</hi> almoſt all <hi>is waxen cold,</hi> we are bold to make a publick ſhow of our Faith and Charity; and both by word and deed openly to prove our ſelves the true Diſciples of the Bleſſed Jeſus; that ſo we may, by our example, happily encourage
+<pb n="15" facs="tcp:65074:11"/>others to become ſo: and by this means effectually propagate that true Chriſtian faith, <hi>which worketh by love,</hi> and is <hi>ſhown by its works.</hi>
+            </p>
+            <p>Secondly, Hence I infer that all the <hi>Atheiſm, Deiſm, Prophaneneſs</hi> and <hi>Immorality,</hi> that is now ſo rife amongſt us, cometh very much from, and is very much encouraged by, the ill lives of us who profeſs the faith of Chriſt; or, at leaſt, from want of that <hi>exemplary Holineſs,</hi> which is ſo ſtrictly requir'd of all Chriſtians. It being ab<g ref="char:EOLhyphen"/>ſolutely impoſſible, as well from the nature of the thing itſelf, as from the juſtice and goodneſs of Divine Providence, that our Saviour's King<g ref="char:EOLhyphen"/>dom ſhould not daily be enlarged, if we were but duly careful; by the goodneſs of our lives, to invite into it ſuch as <hi>ſhould be ſaved;</hi> and, on the contrary, as impoſſible that the Devils King<g ref="char:EOLhyphen"/>dom ſhould flouriſh as it doth, if we did not, by the badneſs of our lives, plead for it, ſet it up, and help to ſupport it. To remove therefore this grievous ſcandal, together with all the fatal conſe<g ref="char:EOLhyphen"/>quences of it, I infer,</p>
+            <p>Thirdly, that we ought all immediately to ſet about reforming the World, by reforming our own lives, and ſo making them fit means and In<g ref="char:EOLhyphen"/>ſtruments of reforming others.</p>
+            <pb n="16" facs="tcp:65074:12"/>
+            <p>And methinks the pleaſure of <hi>turning</hi> Souls to <hi>Righteouſneſs</hi> is ſo truely great, the work in it ſelf ſo noble, ſo much for the honour of God and our Saviour, and the promiſes annex<g ref="char:EOLhyphen"/>ed to it ſo glorious; and this way of doing this work is ſo eaſie, lyeth ſo level even to the mean<g ref="char:EOLhyphen"/>eſt capacities, and is withal ſo inoffenſive, and yet ſo very likely to prove effectual, that theſe alone, abſtracted from all other conſiderations, ought to be a powerful invitation and encourage<g ref="char:EOLhyphen"/>ment to us to lead holy and exemplary lives.</p>
+            <p>Beſides, as we ſhall receive extraordinary rewards in another world, upon account of the good we have done other men by our examples, ſo ſhall we likewiſe undergo extraordinary puniſhments, upon account of the ill we have done by them; the ſins of other men being juſtly chargeable upon us ſo far, as our examples have been the occaſion of them. It is therefore of the higheſt moment and importance to us, <hi>to abſtain from every appearance of evil, to provide things honeſt in the ſight of all men, and in all things to ſhew our ſelves patterns of good works.</hi>
+            </p>
+            <p>But this is more eſpecially incumbent upon us, who have had the advantages of a Religious and learned education, and, from our very infancy, have been inſtructed in the knowledge, and exer<g ref="char:EOLhyphen"/>cis'd in the practice, of the Chriſtian Religion: and, by this means are better qualify'd for be<g ref="char:EOLhyphen"/>coming
+<pb n="17" facs="tcp:65074:12"/>
+               <hi>burning and ſhining lights, in the midſt of</hi> this <hi>perverſe and crooked generation.</hi> If we, who have thus received many uſeful Talents at God's hand, are not careful duly to improve them to his Glory and the good of Mankind (the ends they were given for) we know our doom, and cannot but own the juſtice of it, to be <hi>beaten with many ſtripes.</hi>
+            </p>
+            <p>Fourthly, Hence it appears that we ought fre<g ref="char:EOLhyphen"/>quently to contemplate the Examples of good men, out of which there are ſo many and ſo great advantages to be drawn. We ſhould learn in them to ſee our own faults, and to mend them; to behold the Divine beauties and per<g ref="char:EOLhyphen"/>fections, and tranſcribe them; to ſtudy God in his Creatures, his Laws in their Lives, and the direct way to Heaven in the foot-ſteps of them, who take exact care to trend right towards it. In one word, we ſhould, as the Author of the Epiſtle to the <hi>Hebrews</hi> exhorts us, often <hi>conſider one another, to provoke unto love and to good works.</hi>
+            </p>
+            <p>And this is one excellent uſe we may make of our preſent meeting: to look round about us, and ſee what brave and generous Souls there are amongſt us, who have been famous for <hi>ſerving God,</hi> and <hi>doing good in their generation:</hi> and im<g ref="char:EOLhyphen"/>mediately to take fire at their examples, and be<g ref="char:EOLhyphen"/>come
+<pb n="18" facs="tcp:65074:13"/>all Holy zeal and emulation: and, from this inſtant, to exert our utmoſt ſtrength, for the over<g ref="char:EOLhyphen"/>taking, if poſſible, at leaſt for the coming up to, and keeping equal pace with, theſe Heroick Saints, who have now ſo far out-gone us in the paths of vir<g ref="char:EOLhyphen"/>tue. There has been a time, when we have ea<g ref="char:EOLhyphen"/>gerly ſtriven to rival one another, in matters of much leſs moment and concern; O let us not flag here, where all that we can deſire, and more than we can conceive, even eternal life and hap<g ref="char:EOLhyphen"/>pineſs is, it ſelf, at ſtake.</p>
+            <p>Laſtly, I have but one thing more to add, and that is this: that, altho in the beginning of this Diſcourſe I told you, that by <hi>good works</hi> here we are not to underſtand only <hi>works of Charity,</hi> yet we are certainly principally to underſtand thoſe; and that for this plain reaſon, becauſe the Goſpel al<g ref="char:EOLhyphen"/>ways placeth <hi>works of Charity</hi> at the head of our <hi>good works,</hi> theſe being thoſe <hi>good works</hi> which God expreſsly prefers to <hi>ſacrifices and burnt offer<g ref="char:EOLhyphen"/>ings,</hi> and which our Saviour every where decla<g ref="char:EOLhyphen"/>reth his value of above all others, and will at the great day of Judgment lay the moſt particular ſtreſs upon.</p>
+            <p>Let us then be peculiarly careful to excel in theſe good works, ſo acceptable to God, ſo dear to Chriſt. More eſpecially now: when we are met together with a publick profeſſion of doing good: when we are going to pay a debt, of Gratitude ſhall I
+<pb n="19" facs="tcp:65074:13"/>ſay, or rather of ſtrict Juſtice, to that <hi>School,</hi> to whoſe tender care of us moſt of us owe many of the Temporal bleſſings which we enjoy, and all of us, in great meaſure, our hopes of thoſe that are eternal: And, laſtly, when we have the no<g ref="char:EOLhyphen"/>bleſt inſtance and opportunity of doing good of<g ref="char:EOLhyphen"/>fered to us, that can be; the providing both for the ſouls and bodies of thoſe who are un<g ref="char:EOLhyphen"/>able to help themſelves; thoſe, who are not on<g ref="char:EOLhyphen"/>ly <hi>of the houſhold of faith,</hi> but, as it were, of <hi>our own houſhold</hi> too; and that too in ſuch a way, as ſhall make our Charity extend itſelf to the Souls of many who are yet unborn, by train<g ref="char:EOLhyphen"/>ing up young men for the Miniſtry, and more immediate attendance upon mens Souls. Let us I ſay, having theſe opportunities, theſe encourage<g ref="char:EOLhyphen"/>ments, theſe obligations, <hi>be glad to diſtribute and willing to communicate.</hi> Let us give as freely, as we have receiv'd, and as cheerfully, as if we were yet receiving; Let us ſow plentifully that we may reap ſo, and make uſe of this opportunity of doing good, as thoſe that are not often like to meet with ſuch tempting ones again.</p>
+            <p>To conclude all; If we really deſire to ſhow our love and reſpect for our <hi>School,</hi> as we pre<g ref="char:EOLhyphen"/>tend, and to give it a Character and Reputati<g ref="char:EOLhyphen"/>on in the world, let our <hi>good works</hi> become Ad<g ref="char:EOLhyphen"/>vocates for it. Let the true Chriſtian principles which we learnt there, ſhine forth in all our
+<pb n="20" facs="tcp:65074:14"/>actions, and they will give it a ſufficient Luſtre. Let us prove by the largeneſs of our Charity, both our good will towards it, and our ſenſe of the many advantages, which we have receiv'd from it; and, by that and all other virtues, make it plainly appear to the world, that it is indeed, what it pretends to be, and what will be its ever<g ref="char:EOLhyphen"/>laſting Glory, a true <hi>Seminary for Virtue,</hi> a faithful <hi>Nuſery for Heaven.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>IN a ſhort time will be publiſhed by the Author of <hi>The Duties of the Cloſet,</hi> a ſmall Treatiſe, ſhewing the Nature and Deſign of the Holy Sacrament of the Lords Supper, with perſwaſions to the frequent uſe of it; alſo ſhort devotions at the time of receiving it, 120. Price ſtitch'd 3 <hi>d.</hi> but thoſe perſons who are ſo chari<g ref="char:EOLhyphen"/>tably diſpoſed to give them away, may have them for 20 <hi>s.</hi> a Hundred. Printed for <hi>Tho. Speed</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:65074:14"/>
+            <head>Books printed for <hi>Thomas Speed,</hi> over againſt <hi>Jona<g ref="char:EOLhyphen"/>than</hi>'s Coffee Houſe in <hi>Exchange-Alley</hi> in <hi>Cornhil.</hi>
+            </head>
+            <p>THe Duties of the Cloſet, Being an earneſt Exhor<g ref="char:EOLhyphen"/>tation to private Devotion. The Second Edition. <hi>Twelves.</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>Two Sermons, one Preach'd before the King, the other before the Lord Mayor. Both By Sir <hi>William Dawes</hi> Baronet. D. D. And Chaplain in Ordinary to his Ma<g ref="char:EOLhyphen"/>jeſty. <hi>Quarto.</hi> Price 6 <hi>d.</hi> each.</p>
+            <p>A Sermon at the Funeral of Mrs. <hi>Elizabeth Fiſher,</hi> Siſter to the Honourable Sir <hi>William Dawes,</hi> Baronet, D. D. And Wife of the Reverend Dr. <hi>Peter Fiſher.</hi> Preached at <hi>Bennington</hi> in <hi>Hertfordſhire, June.</hi> 2d 1698, By <hi>William Milner</hi> Vicar of <hi>Shiphal</hi> in <hi>Hertfordſhire, Quarto.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>Of <hi>the Happineſs of the Saints in Heaven:</hi> A Sermon Preach'd before the Queen at <hi>White-Hall, October</hi> 12. 1690. By <hi>William Beveridge,</hi> D. D. Rector of St. <hi>Pe<g ref="char:EOLhyphen"/>ters Cornhill.</hi> The Fourth Edition, <hi>Quarto,</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>A Sermon at the Funeral of the Reverend Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Grey,</hi> late Vicar of <hi>Dedham</hi> in <hi>Eſſex,</hi> Preached in the Pariſh Church of <hi>Dedham, Feb.</hi> 2 <hi>d.</hi> 92. with a ſhort Account of his life, By <hi>Joſeph Powel,</hi> M. A. Re<g ref="char:EOLhyphen"/>ctor of St <hi>Mary</hi> on the <hi>Wall</hi> in <hi>Colcheſter, Quarto.</hi> Price 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:65074:15"/>
+            <head>Several Books publiſhed by Dr <hi>Richard Lucas,</hi> Vicar of St <hi>Stephen Coleman-ſtreet,</hi> and Prebendary of <hi>Weſtminſter.</hi> Sold by <hi>Sam. Smith,</hi> and <hi>Benj. Walford,</hi> at the <hi>Princes Arms</hi> in St <hi>Paul</hi>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Church-yard</head>
+            <p>DR <hi>Richard Lucas</hi>'s Practical Chriſtianity; or, an account of the Holineſs which the Goſpel enjoyns with Motives to it, and the Remedies propos'd againſt Temptation; with a Prayer concluding each diſtinct Duty. in 8 <hi>vo.</hi> price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>—His Enquiry after Happineſs, in three parts, in 8 <hi>vo.</hi> Vol. I. of the poſſibility of obtaining happineſs. Vol. II. Of the true Notion of Human Life. Voll. III. Of Religious Perfection. Theſe three Parts bound in two Vol. Price 10 <hi>s.</hi>
+            </p>
+            <p>—Chriſtian Thoughts for every day of the Month, with a Prayer, wherein is repreſented the Nature of unfeigned Re<g ref="char:EOLhyphen"/>pentance, and of Love towards God, 120 Price 1 <hi>s.</hi>
+            </p>
+            <p>—The plain Mans Guide to Heaven; containing his Duty, firſt, towards GOD; ſecondly, towards his Neigh<g ref="char:EOLhyphen"/>bour: with proper Prayers, Meditations, and Ejaculations; deſign'd chiefly for the Countryman, Trades-man, and ſuch like. In 120. Price one Shilling.</p>
+            <p>—The Duty of Servants; containing, firſt, their prepara<g ref="char:EOLhyphen"/>tion for, and Choice of a <hi>Service;</hi> ſecondly, their duty in <hi>Ser<g ref="char:EOLhyphen"/>vice;</hi> together with prayers ſuited to each duty, all which may be accommodated likewiſe for the moſt part to Appren<g ref="char:EOLhyphen"/>tices. To this is added a Diſcourſe of the Sacrament, ſuited peculiarly to Servants. The ſecond Edition. In 120.</p>
+            <p>—Twelve Sermons preached on ſeveral occaſions before their Majeſties, the Lord Mayor, <hi>&amp;c.</hi> ſome of which were never before printed. In Octavo.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
